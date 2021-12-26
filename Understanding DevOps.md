@@ -77,3 +77,7 @@ Beyond Jenkins and Tekton Pipelines, other open source CI/CD tools you may wish 
 
 Teams may also want to consider **managed CI/CD tools,** which are available from a variety of vendors. The major public cloud providers all offer CI/CD solutions, along with GitLab, CircleCI, Travis CI, Atlassian Bamboo, and many others.
 Additionally, any tool that’s foundational to DevOps is likely to be part of a CI/CD process. Tools for configuration automation (such as Ansible, Chef, and Puppet), container runtimes (such as Docker, rkt, and cri-o), and container orchestration (Kubernetes) aren’t strictly CI/CD tools, but they’ll show up in many CI/CD workflows
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLAWDU6hpGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/FLAWDU6hpGM
