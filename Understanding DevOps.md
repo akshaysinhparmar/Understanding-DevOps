@@ -78,6 +78,10 @@ Beyond Jenkins and Tekton Pipelines, other open source CI/CD tools you may wish 
 Teams may also want to consider **managed CI/CD tools,** which are available from a variety of vendors. The major public cloud providers all offer CI/CD solutions, along with GitLab, CircleCI, Travis CI, Atlassian Bamboo, and many others.
 Additionally, any tool that’s foundational to DevOps is likely to be part of a CI/CD process. Tools for configuration automation (such as Ansible, Chef, and Puppet), container runtimes (such as Docker, rkt, and cri-o), and container orchestration (Kubernetes) aren’t strictly CI/CD tools, but they’ll show up in many CI/CD workflows
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLAWDU6hpGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### DevOps and Security
+DevOps isn’t just about development and operations teams. In order to take full advantage of a DevOps approach, organizations must consider how security plays a role in the life cycle of their apps. This means thinking about core security from the planning phase onward. It also means automating some security features to keep the DevOps workflow from slowing down. Selecting the right tools to integrate security can help meet your DevOps security goals.
 
+But effective DevOps security requires more than new tools—it builds on the cultural changes of DevOps to integrate the work of security teams sooner rather than later. DevOps speeds things up by closing the gap between development and operations, but the speed gained can be undermined by poor security planning.
+
+Security used to be the exclusive responsibility of an isolated team—tacked on in the final stage of development. Now, in a collaborative DevOps framework, security is a shared responsibility, integrated from the start.
 https://youtu.be/FLAWDU6hpGM
